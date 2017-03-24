@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "live_search", "live_search\live_search.vbproj", "{5E2F73D4-C8EE-43D4-A6F6-E512B626923D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E2F73D4-C8EE-43D4-A6F6-E512B626923D}.Debug|x86.ActiveCfg = Debug|x86
+		{5E2F73D4-C8EE-43D4-A6F6-E512B626923D}.Debug|x86.Build.0 = Debug|x86
+		{5E2F73D4-C8EE-43D4-A6F6-E512B626923D}.Release|x86.ActiveCfg = Release|x86
+		{5E2F73D4-C8EE-43D4-A6F6-E512B626923D}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
